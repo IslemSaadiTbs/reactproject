@@ -21,3 +21,12 @@ function App() {
   );
 }
 export default App;
+
+// One thing I understand well in this lab:
+// I understand how to use JSX to display variables and objects
+
+// One thing that is still confusing:
+// I am still learning when to define variables inside or outside components
+
+// One mistake I made and fixed:
+// I forgot to wrap elements inside one parent div and fixed the error and I forgot the {}
